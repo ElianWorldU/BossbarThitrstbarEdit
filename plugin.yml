@@ -1,0 +1,17 @@
+name: BossbarThirstBarEdit
+version: 1.1
+api: 3.0.0
+main: BaliGamerz776c\Main
+author: Baligamerz776c/edit:Elianworld
+description: Plugin thirst yang dapat membuat survival menjadi real
+##Jngan ubah" author kalau noob ya belajar
+
+commands:
+ minum:
+    description: "§oMinuman Penghilang haus"
+    
+permissions:
+ op.op:
+    default: op
+    description: "§oMinuman_ByBaliGaByBaliGamer"
+    
